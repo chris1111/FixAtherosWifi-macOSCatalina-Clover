@@ -1,0 +1,1 @@
+# FixAtherosWifi-macOSCatalina-Clover
