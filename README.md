@@ -1,5 +1,7 @@
 ## FixAtherosWifi-macOSCatalina-Clover
 - Make sure you have the kext Original in your system and have not made any modifications.
+- You must have set injectkexts to Yes in the Clover config.plist
+
 
 Download Release ➣ [FixAtherosWifi-macOSCatalina-Clover.zip ](https://github.com/chris1111/FixAtherosWifi-macOSCatalina-Clover/releases/tag/V1)
 
