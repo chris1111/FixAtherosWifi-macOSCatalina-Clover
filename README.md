@@ -1,4 +1,6 @@
 ## FixAtherosWifi-macOSCatalina-Clover
+- Make sure you have the kext Original in your system and have not made any modifications.
+
 Download Release ➣ [FixAtherosWifi-macOSCatalina-Clover.zip ](https://github.com/chris1111/FixAtherosWifi-macOSCatalina-Clover/releases/tag/V1)
 
 ![Screen Shot 1](https://user-images.githubusercontent.com/6248794/80320627-8b25eb00-87e5-11ea-871a-4af30107b8b9.png)
